@@ -1,0 +1,26 @@
+Philosopher 0 started thinking
+Philosopher 1 started thinking
+Philosopher 2 started thinking
+Philosopher 4 started thinking
+Philosopher 3 started thinking
+Philosopher 0 stopped thinking
+Philosopher 0 is Hungry
+Philosopher 1 stopped thinking
+Philosopher 1 is Hungry
+Philosopher 2 stopped thinking
+Philosopher 2 is Hungry
+Philosopher 3 stopped thinking
+Philosopher 3 is Hungry
+Philosopher 4 stopped thinking
+Philosopher 4 is Hungry
+Philosopher 4 takes fork 3 and 0
+Philosopher 4 started eating
+Philosopher 4 finished eating
+Philosopher 4 putting fork 3 and 0 down
+Philosopher 3 takes fork 2 and 4
+Philosopher 3 started eating
+Philosopher 0 takes fork 4 and 1
+Philosopher 4 started thinking
+Philosopher 0 started eating
+Philosopher 3 finished eating
+Philosopher 3 putting fork 2 and 4 down
